@@ -127,5 +127,4 @@ marks_data.predict(X_n1_1)
 
 
 ## RESULT
-
-Include your result here
+ Thus a neural network regression model is developed for the given dataset.
